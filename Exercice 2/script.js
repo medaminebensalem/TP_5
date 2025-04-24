@@ -12,7 +12,7 @@
         } else if (num_entrer > num_const) {
             alert("Le nombre est plus petit.");
         } else {
-            alert("Bravo ! Vous avez trouvé le nombre en ${score} tentatives.");
+            alert(`Bravo ! Vous avez trouvé le nombre en ${score} tentatives.`);
         }
     }
 
